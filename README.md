@@ -4,3 +4,5 @@ I'm interested in all kinds of things, but mainly computer science and photograp
 My friends are Python and JavaScript, but I'm also on good terms with C, SQL,
 and other back-, or front end stuff that help me design and realize
 software from start to finish.
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
