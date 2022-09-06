@@ -5,4 +5,4 @@ My friends are Python and JavaScript, but I'm also on good terms with C, SQL,
 and other back-, or front end stuff that help me design and realize
 software from start to finish.
 
-![](https://raw.githubusercontent.com/bigbali/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bigbali/profile-graphs/master/generated/overview.svg#gh-dark-mode-only)
